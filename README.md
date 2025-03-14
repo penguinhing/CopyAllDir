@@ -1,9 +1,11 @@
 <div align="center">
 	<h1>CopyAllDir</h1>
-  <img src="https://img.shields.io/github/v/release/penguinhing/CopyAllDir?color=4CAF50" alt="GitHub release">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
-  </a>
+		<a href="https://github.com/penguinhing/CopyAllDir/releases/tag/v1.0">
+		<img src="https://img.shields.io/github/v/release/penguinhing/CopyAllDir?color=4CAF50" alt="GitHub release">
+	</a>
+		<a href="https://opensource.org/licenses/MIT">
+		<img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+	</a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
