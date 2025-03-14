@@ -56,5 +56,6 @@ class FileExplorer:
 ====================
 파일 경로: C:\workspace\python\CopyAllDir\lib\setting.py
 파일 내용:
- ...```
+ ...
+```
 
