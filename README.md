@@ -26,6 +26,38 @@
 - '복사 설정'에서 정의한 조건에 따라 디렉터리 구조와 모든 코드를 복사합니다.
 
 <br/><br/><br/>
-## 사용 예시
+
+## 실제 사용 예시
 ![Image](https://github.com/user-attachments/assets/b4c162e0-22ba-4241-aefb-5eff4f4ba0c7)
+
+
+## 복사 내용 예시
+```
+전체 디렉터리 구조:
+C:\workspace\python\CopyAllDir
+├── lib
+│   ├── explorer.py
+│   └── setting.py
+└── main.py
+
+
+
+
+====================
+파일 경로: C:\workspace\python\CopyAllDir\lib\explorer.py
+파일 내용:
+import sys, os, io
+from typing import List, Dict
+from treelib import Tree
+
+class FileExplorer:
+    ...
+	
+====================
+파일 경로: C:\workspace\python\CopyAllDir\lib\setting.py
+파일 내용:
+ ...```
+
+
+<br/><br/><br/>
 
