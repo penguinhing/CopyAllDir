@@ -1,0 +1,14 @@
+{
+    "exclude_folders": [
+        "env",
+        "__pycache__",
+        "build",
+        "dist"
+    ],
+    "exclude_files": [
+        "test.py"
+    ],
+    "allowed_extensions": [
+        ".py"
+    ]
+}

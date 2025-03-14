@@ -8,13 +8,13 @@ Windows Registry Editor Version 5.00
 @=""
 
 [HKEY_CLASSES_ROOT\Directory\ContextMenus\CopyAllDir\shell\CopyStructure]
-@="디렉터리 구조 및 코드 전체 복사"
+@="All Copy"
 
 [HKEY_CLASSES_ROOT\Directory\ContextMenus\CopyAllDir\shell\CopyStructure\command]
 @="\"C:\\workspace\\python\\CopyAllDir\\dist\\copy_all_dir.exe\" \"%1\""
 
 [HKEY_CLASSES_ROOT\Directory\ContextMenus\CopyAllDir\shell\Settings]
-@="복사 설정"
+@="Copy Setting"
 
 [HKEY_CLASSES_ROOT\Directory\ContextMenus\CopyAllDir\shell\Settings\command]
 @="\"C:\\workspace\\python\\CopyAllDir\\dist\\copy_all_dir.exe\" \"%1\" /settings"
